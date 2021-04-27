@@ -51,9 +51,9 @@ An example of non-toxic comment on the webapp.
 
 
 An example of intermediate comment on the webapp.
-![Toxic comment](images/toxic.png)
+![Intermediate comment](images/intermediate.png)
 
 An example of Toxic comment on the webapp.
-![Intermediate comment](images/intermediate.png)
+![Toxic comment](images/toxic.png)
 
 
