@@ -2,6 +2,8 @@
 
 This is a project for the Erdos pilot-NLP bootcamp that occured over the course of March-April 2021.
 
+You can see our final presentation [here](https://docs.google.com/presentation/d/1RHecxApLVN0tBIS-SkA7Jv0PvJc4KHUXPktRgEiIAtE/edit?usp=sharing)
+
 ### Team Members
 [Ghanashyam Khanal](https://www.linkedin.com/in/ghanashyam-khanal/)
 [Dyas Utomo](https://www.linkedin.com/in/dyasutomo/)
