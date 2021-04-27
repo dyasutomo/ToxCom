@@ -46,8 +46,15 @@ We obtained 159,511 comments from Wikipedia’s talk page edits[1] with length 1
 - We created an interactive web application using streamlit and hosted on heroku.
 - The web app can be found http://toxcom.herokuapp.com/.
 
+An example of non-toxic comment on the webapp.
 ![Non-toxic comment](images/non-toxic.png)
+
+
+An example of intermediate comment on the webapp.
 ![Intermediate comment](images/intermediate.png)
+
+
+An example of Toxic comment on the webapp.
 ![Toxic comment](images/toxic.png)
 
 
